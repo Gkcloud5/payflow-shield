@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infrastructure/params/Untitled.md",
+                "file": "Infrastructure/params/03-prod.json.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "03-prod.json"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infrastructure/params/Untitled.md",
+                "file": "Infrastructure/params/03-prod.json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for 03-prod.json"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infrastructure/params/Untitled.md",
+                "file": "Infrastructure/params/03-prod.json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from 03-prod.json"
             }
           },
           {
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infrastructure/params/Untitled.md",
+                "file": "Infrastructure/params/03-prod.json.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 03-prod.json"
             }
           },
           {
@@ -252,10 +252,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f85d4bbca0a3a079",
+  "active": "dfe526a39c48d63c",
   "lastOpenFiles": [
+    "01-worker",
+    "src",
     "Infrastructure/params/02-staging.json.md",
-    "Infrastructure/params/Untitled.md",
+    "Infrastructure/params/03-prod.json.md",
     "Infrastructure/params/01-dev.json.md",
     "Infrastructure/stacks/05-monitoring.yaml.md",
     "Infrastructure/params",
