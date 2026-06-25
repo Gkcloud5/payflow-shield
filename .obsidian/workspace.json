@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-README.md",
+                "file": "00-README.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-README"
+              "title": "00-README.md"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-README.md",
+                "file": "00-README.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-README"
+              "title": "00-README.md"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Infrastructure/params/03-prod.json.md",
+                "file": "00-README.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-prod.json"
+              "title": "00-README.md"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Infrastructure/params/03-prod.json.md",
+                "file": "00-README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03-prod.json"
+              "title": "Backlinks for 00-README.md"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Infrastructure/params/03-prod.json.md",
+                "file": "00-README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03-prod.json"
+              "title": "Outgoing links from 00-README.md"
             }
           },
           {
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Infrastructure/params/03-prod.json.md",
+                "file": "00-README.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03-prod.json"
+              "title": "Outline of 00-README.md"
             }
           },
           {
@@ -252,8 +252,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfe526a39c48d63c",
+  "active": "f85d4bbca0a3a079",
   "lastOpenFiles": [
+    "01-ARCHITECTURE.md.md",
+    "00-README.md.md",
+    "00-Infrastructure/params/03-prod.json.md",
     "03-docs",
     "02-diagrams",
     "01-src/03-healer",
@@ -261,7 +264,6 @@
     "01-src/01-worker",
     "01-src",
     "00-Infrastructure/params/02-staging.json.md",
-    "00-Infrastructure/params/03-prod.json.md",
     "00-Infrastructure/params/01-dev.json.md",
     "00-Infrastructure/stacks/05-monitoring.yaml.md",
     "00-Infrastructure/params",
@@ -273,8 +275,6 @@
     "00-Infrastructure/01-root-stack.yaml.md",
     "03-DR-RUNBOOK.md.md",
     "00-Infrastructure",
-    "02-COST.md.md",
-    "00-README.md",
-    "01-ARCHITECTURE.md.md"
+    "02-COST.md.md"
   ]
 }
