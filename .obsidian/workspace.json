@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infrastructure/stacks/Untitled.md",
+                "file": "Infrastructure/params/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infrastructure/stacks/Untitled.md",
+                "file": "Infrastructure/params/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infrastructure/stacks/Untitled.md",
+                "file": "Infrastructure/params/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infrastructure/stacks/Untitled.md",
+                "file": "Infrastructure/params/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -254,8 +254,14 @@
   },
   "active": "f85d4bbca0a3a079",
   "lastOpenFiles": [
+    "Infrastructure/params/02-staging.json.md",
+    "Infrastructure/params/Untitled.md",
+    "Infrastructure/params/01-dev.json.md",
+    "Infrastructure/stacks/05-monitoring.yaml.md",
+    "Infrastructure/params",
+    "Infrastructure/stacks/04-security.yaml.md",
+    "Infrastructure/stacks/03-database.yaml.md",
     "Infrastructure/stacks/02-compute.yaml.md",
-    "Infrastructure/stacks/Untitled.md",
     "Infrastructure/stacks/01-network.yaml.md",
     "Infrastructure/stacks",
     "Infrastructure/01-root-stack.yaml.md",
