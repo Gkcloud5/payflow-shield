@@ -331,8 +331,8 @@ payflow-shield/
 
 ## 📞 Connect
 
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: [github.com/Gkcloud5](https://github.com/Gkcloud5)
+- LinkedIn: [linkedin.com/in/gokulakrishnan-v]([linkedin.com/in/gokulakrishnan-v-5760a038a](https://www.linkedin.com/in/gokulakrishnan-v-5760a038a/))
 
 ---
 
@@ -340,9 +340,9 @@ payflow-shield/
 
 **Built with ☁️ on Amazon Web Services**
 
-` SOC 2 Ready · `Self-Healing` · `Multi-Tenant` · `IaC Deployed` · `CI/CD Pipeline` · `DR Tested`
+``SOC 2 Read`  · `Self-Healing`  ·  `Multi-Tenant`  ·  `IaC Deployed`  ·  `CI/CD Pipeline`  ·  `DR Tested`
 
 </div>
 
-`SOC 2 Read`
+
 

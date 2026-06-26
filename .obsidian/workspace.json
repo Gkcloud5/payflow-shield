@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-README.md.md",
+                "file": "00-README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-README.md"
+              "title": "00-README"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-README.md.md",
+                "file": "00-README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-README.md"
+              "title": "00-README"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-COST.md.md",
+                "file": "02-COST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-COST.md"
+              "title": "02-COST"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-README.md.md",
+                "file": "03-DR-RUNBOOK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-README.md"
+              "title": "03-DR-RUNBOOK"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-README.md.md",
+                "file": "03-DR-RUNBOOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00-README.md"
+              "title": "Backlinks for 03-DR-RUNBOOK"
             }
           },
           {
@@ -171,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-README.md.md",
+                "file": "03-DR-RUNBOOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 00-README.md"
+              "title": "Outgoing links from 03-DR-RUNBOOK"
             }
           },
           {
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-README.md.md",
+                "file": "03-DR-RUNBOOK.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00-README.md"
+              "title": "Outline of 03-DR-RUNBOOK"
             }
           },
           {
@@ -255,8 +255,9 @@
   },
   "active": "f85d4bbca0a3a079",
   "lastOpenFiles": [
-    "01-ARCHITECTURE.md.md",
-    "00-README.md.md",
+    "02-COST.md",
+    "01-ARCHITECTURE.md",
+    "00-README.md",
     "00-Infrastructure/params/03-prod.json.md",
     "03-docs",
     "02-diagrams",
@@ -274,8 +275,7 @@
     "00-Infrastructure/stacks/01-network.yaml.md",
     "00-Infrastructure/stacks",
     "00-Infrastructure/01-root-stack.yaml.md",
-    "03-DR-RUNBOOK.md.md",
-    "00-Infrastructure",
-    "02-COST.md.md"
+    "03-DR-RUNBOOK.md",
+    "00-Infrastructure"
   ]
 }
