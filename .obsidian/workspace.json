@@ -252,8 +252,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfe526a39c48d63c",
+  "active": "f85d4bbca0a3a079",
   "lastOpenFiles": [
+    "00-Infrastructure/stacks/01-network.yaml.md",
     "00-Infrastructure/stacks/01-network.yaml",
     "01-ARCHITECTURE.md",
     "00-README.md",
@@ -273,7 +274,6 @@
     "00-Infrastructure/stacks/04-security.yaml.md",
     "00-Infrastructure/stacks/03-database.yaml.md",
     "00-Infrastructure/stacks/02-compute.yaml.md",
-    "00-Infrastructure/stacks/01-network.yaml.md",
     "00-Infrastructure/stacks",
     "00-Infrastructure/01-root-stack.yaml.md",
     "00-Infrastructure"
