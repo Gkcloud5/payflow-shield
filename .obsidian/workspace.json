@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Infrastructure/stacks/04-security.yaml.md",
+                "file": "00-Infrastructure/stacks/02-compute.yaml.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-security.yaml"
+              "title": "02-compute.yaml"
             }
           }
         ],
@@ -255,6 +255,7 @@
   },
   "active": "f85d4bbca0a3a079",
   "lastOpenFiles": [
+    "00-Infrastructure/stacks/04-security.yaml.md",
     "01-ARCHITECTURE.md",
     "00-Infrastructure/stacks/01-network.yaml.md",
     "00-Infrastructure/stacks/01-network.yaml",
@@ -272,7 +273,6 @@
     "00-Infrastructure/params/01-dev.json.md",
     "00-Infrastructure/stacks/05-monitoring.yaml.md",
     "00-Infrastructure/params",
-    "00-Infrastructure/stacks/04-security.yaml.md",
     "00-Infrastructure/stacks/03-database.yaml.md",
     "00-Infrastructure/stacks/02-compute.yaml.md",
     "00-Infrastructure/stacks",
