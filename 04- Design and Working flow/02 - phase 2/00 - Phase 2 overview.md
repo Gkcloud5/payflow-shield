@@ -51,3 +51,32 @@ Phase 2 — Commission Processing Engine
 * `Visibility Timeout = 6x your average processing time`
 
 
+### DLQ Alarm + Runbook Pattern
+
+```
+DLQ receives a message
+    │
+    ▼
+CloudWatch Metric: ApproximateNumberOfMessagesVisible > 0
+    │
+    ▼
+CloudWatch Alarm fires
+    │
+    ▼
+SNS Topic → sends alert to:
+    ├── PagerDuty (wakes up on-call engineer)
+    ├── Slack #alerts channel
+    └── Email to team
+```
+
+
+### PayFlow Shield Context
+
+|Your Use Case|SQS Pattern|
+|---|---|
+|Commission job arrives|Main Queue receives message|
+|Commission calculation fails (DB timeout)|Message retried 3x, then → DLQ|
+|DLQ gets a message|CloudWatch Alarm → SNS → Alert|
+|Bug fixed, redrive needed|DLQ Redrive back to main queue|
+|Multiple tenants, isolated failure|Per-tenant queues or SNS fan-out|
+
