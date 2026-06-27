@@ -41,3 +41,10 @@ Phase 2 — Commission Processing Engine
 ```
 
 
+
+### Poison Message:
+* A single message that will always fail, no matter how many times we retry it.
+* DLQ is resolve it, like after 3 failed attempts, SQS automatically moves that message to DLQ. once main queue clear, the bad message is sit in DLQ to investigate later.
+
+### Visibility Timeout Trap:
+ * 
