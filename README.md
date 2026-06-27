@@ -333,7 +333,7 @@ payflow-shield/
 ## 📞 Connect
 
 - GitHub: [github.com/Gkcloud5](https://github.com/Gkcloud5)
-- LinkedIn: [linkedin.com/in/gokulakrishnan-v]([linkedin.com/in/gokulakrishnan-v-5760a038a](https://www.linkedin.com/in/gokulakrishnan-v-5760a038a/))
+- LinkedIn: [linkedin.com/in/gokulakrishnan-v](https://www.linkedin.com/in/gokulakrishnan-varadharajan/))
 
 ---
 
