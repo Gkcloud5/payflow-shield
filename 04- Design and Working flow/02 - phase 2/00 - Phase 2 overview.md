@@ -47,4 +47,7 @@ Phase 2 — Commission Processing Engine
 * DLQ is resolve it, like after 3 failed attempts, SQS automatically moves that message to DLQ. once main queue clear, the bad message is sit in DLQ to investigate later.
 
 ### Visibility Timeout Trap:
- * 
+ * When worker picks the message, SQS hides it from other worker for X seconds(Visibility timeout). if worker finishes, it deletes the message, if the worker crashes or takes too long, the message reappears for another worker.
+* `Visibility Timeout = 6x your average processing time`
+
+
