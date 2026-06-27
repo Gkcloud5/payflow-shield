@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-README.md",
+                "file": "04- Design and Working flow/01- Phase 1(Cloud Formation)/00 - phase 1 -- Created the stack for infrastructure, RDS and Secret key for DB connection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-README"
+              "title": "00 - phase 1 -- Created the stack for infrastructure, RDS and Secret key for DB connection"
             }
           },
           {
@@ -77,8 +77,7 @@
               "title": "03-database.yaml"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,15 +252,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f85d4bbca0a3a079",
+  "active": "79e0c0c363a24e8d",
   "lastOpenFiles": [
-    "00-Infrastructure/stacks/04-security.yaml.md",
+    "000 Images/Pasted image 20260627170000.png",
+    "000 Images",
+    "000 Images/Pasted image 20260627165837.png",
+    "00-README.md",
+    "04- Design and Working flow/01- Phase 1(Cloud Formation)/00 - phase 1 -- Created the stack for infrastructure, RDS and Secret key for DB connection.md",
+    "04- Design and Working flow/01- Phase 1(Cloud Formation)",
+    "04- Design and Working flow",
     "00-Infrastructure/stacks/03-database.yaml.md",
+    "00-Infrastructure/stacks/04-security.yaml.md",
     "00-Infrastructure/stacks/02-compute.yaml.md",
     "01-ARCHITECTURE.md",
     "00-Infrastructure/stacks/01-network.yaml.md",
     "00-Infrastructure/stacks/01-network.yaml",
-    "00-README.md",
     "03-DR-RUNBOOK.md",
     "02-COST.md",
     "00-Infrastructure/params/03-prod.json.md",
@@ -274,9 +279,6 @@
     "00-Infrastructure/params/02-staging.json.md",
     "00-Infrastructure/params/01-dev.json.md",
     "00-Infrastructure/stacks/05-monitoring.yaml.md",
-    "00-Infrastructure/params",
-    "00-Infrastructure/stacks",
-    "00-Infrastructure/01-root-stack.yaml.md",
-    "00-Infrastructure"
+    "00-Infrastructure/01-root-stack.yaml.md"
   ]
 }
