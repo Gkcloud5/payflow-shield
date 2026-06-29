@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Infrastructure/stacks/04-security.yaml.md",
+                "file": "00-Infrastructure/stacks/07-iam.yaml.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-security.yaml"
+              "title": "07-iam.yaml"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "823074eacbdd8f51",
@@ -197,8 +198,9 @@
   },
   "active": "2504ca21b34896d4",
   "lastOpenFiles": [
-    "00-Infrastructure/stacks/05-monitoring.yaml.md",
     "00-Infrastructure/stacks/04-security.yaml.md",
+    "00-Infrastructure/stacks/07-iam.yaml.md",
+    "00-Infrastructure/stacks/05-monitoring.yaml.md",
     "00-Infrastructure/stacks/02-compute.yaml.md",
     "00-Infrastructure/stacks/01-network.yaml.md",
     "00-Infrastructure/stacks/06 - sqs.yaml.md",
