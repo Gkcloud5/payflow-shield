@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04- Design and Working flow/04 - phase 4/001 - Phase 4 summary.md",
+                "file": "04- Design and Working flow/05 -Phase 5/001 - Phase 5 above and overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 - Phase 4 summary"
+              "title": "001 - Phase 5 above and overview"
             }
           }
         ]
@@ -197,8 +197,10 @@
   },
   "active": "2504ca21b34896d4",
   "lastOpenFiles": [
-    "04- Design and Working flow/04 - phase 4/000 - Phase 4 overview and about.md",
     "04- Design and Working flow/04 - phase 4/001 - Phase 4 summary.md",
+    "04- Design and Working flow/05 -Phase 5/001 - Phase 5 above and overview.md",
+    "04- Design and Working flow/05 -Phase 5",
+    "04- Design and Working flow/04 - phase 4/000 - Phase 4 overview and about.md",
     "04- Design and Working flow/03-Phase 3/001 - phase 3 summary.md",
     "04- Design and Working flow/04 - phase 4",
     "04- Design and Working flow/03-Phase 3/000 - phase 3 plan and about.md",
@@ -229,7 +231,6 @@
     "00-Infrastructure/params/03-prod.json.md",
     "03-docs",
     "02-diagrams",
-    "01-src/03-healer",
     "00-Infrastructure/params/02-staging.json.md",
     "00-Infrastructure/params/01-dev.json.md"
   ]
