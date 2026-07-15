@@ -14,3 +14,12 @@ payflow-shield/
         └── cloudwatch.yaml    ← create this now
 ```
 
+## Stack 2 — Lambda Self-Healing
+
+```
+payflow-shield/
+└── infrastructure/
+    └── stacks/
+        └── lambda.yaml    ← create this now
+```
+
