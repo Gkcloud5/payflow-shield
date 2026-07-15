@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04- Design and Working flow/02 - phase 2/01 - Phase 2 summary.md",
+                "file": "04- Design and Working flow/03-Phase 3/000 - phase 3 plan and about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Phase 2 summary"
+              "title": "000 - phase 3 plan and about"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "823074eacbdd8f51",
@@ -198,8 +197,10 @@
   },
   "active": "2504ca21b34896d4",
   "lastOpenFiles": [
-    "04- Design and Working flow/02 - phase 2/00 - Phase 2 overview.md",
     "04- Design and Working flow/02 - phase 2/01 - Phase 2 summary.md",
+    "04- Design and Working flow/03-Phase 3/000 - phase 3 plan and about.md",
+    "04- Design and Working flow/03-Phase 3",
+    "04- Design and Working flow/02 - phase 2/00 - Phase 2 overview.md",
     "01-ARCHITECTURE.md",
     "00-Infrastructure/stacks/07-iam.yaml.md",
     "00-Infrastructure/stacks/04-security.yaml.md",
@@ -226,7 +227,6 @@
     "02-diagrams",
     "01-src/03-healer",
     "01-src/02-api",
-    "01-src/01-worker",
     "00-Infrastructure/params/02-staging.json.md",
     "00-Infrastructure/params/01-dev.json.md"
   ]
