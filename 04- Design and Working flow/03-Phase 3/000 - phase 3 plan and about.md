@@ -34,4 +34,6 @@ payflow-shield/
         └── guardduty.yaml    ← create this now
 ```
 
+* Skipping now, my free tier does not have a guardduty
+* 
 
