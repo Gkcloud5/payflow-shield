@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04- Design and Working flow/06 - Phase 6 Demo/00 - phase 6 Demo work.md",
+                "file": "03-docs/Testing picture/000  testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - phase 6 Demo work"
+              "title": "000  testing"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "823074eacbdd8f51",
@@ -197,8 +198,15 @@
   },
   "active": "2504ca21b34896d4",
   "lastOpenFiles": [
-    "04- Design and Working flow/05 -Phase 5/001 - Phase 5 above and overview.md",
+    "image_401.png",
+    "image_400.png",
+    "image_399.png",
+    "image_398.png",
+    "image_397.png",
     "04- Design and Working flow/06 - Phase 6 Demo/00 - phase 6 Demo work.md",
+    "03-docs/Testing picture/000  testing.md",
+    "03-docs/Testing picture",
+    "04- Design and Working flow/05 -Phase 5/001 - Phase 5 above and overview.md",
     "04- Design and Working flow/06 - Phase 6 Demo",
     "04- Design and Working flow/04 - phase 4/001 - Phase 4 summary.md",
     "04- Design and Working flow/05 -Phase 5",
@@ -231,8 +239,6 @@
     "00-Infrastructure/stacks/01-network.yaml",
     "03-DR-RUNBOOK.md",
     "00-Infrastructure/params/03-prod.json.md",
-    "03-docs",
-    "00-Infrastructure/params/02-staging.json.md",
-    "00-Infrastructure/params/01-dev.json.md"
+    "00-Infrastructure/params/02-staging.json.md"
   ]
 }
