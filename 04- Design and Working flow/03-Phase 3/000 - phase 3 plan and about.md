@@ -14,3 +14,22 @@ payflow-shield/
     └── stacks/
         └── kms.yaml    ← create this now
 ```
+
+### Stack 2 — CloudTrail + S3 Audit Logs
+
+```
+payflow-shield/
+└── infrastructure/
+    └── stacks/
+        └── cloudtrail.yaml    ← create this now
+```
+
+
+## Stack 3 — GuardDuty Threat Detection
+
+```
+payflow-shield/
+└── infrastructure/
+    └── stacks/
+        └── guardduty.yaml    ← create this now
+```
