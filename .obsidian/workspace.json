@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-ARCHITECTURE.md",
-                "mode": "preview",
+                "file": "04- Design and Working flow/02 - phase 2/01 - Phase 2 summary.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-ARCHITECTURE"
+              "title": "01 - Phase 2 summary"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "823074eacbdd8f51",
@@ -198,13 +197,15 @@
   },
   "active": "2504ca21b34896d4",
   "lastOpenFiles": [
+    "04- Design and Working flow/02 - phase 2/00 - Phase 2 overview.md",
+    "04- Design and Working flow/02 - phase 2/01 - Phase 2 summary.md",
+    "01-ARCHITECTURE.md",
     "00-Infrastructure/stacks/07-iam.yaml.md",
     "00-Infrastructure/stacks/04-security.yaml.md",
     "00-Infrastructure/stacks/05-monitoring.yaml.md",
     "00-Infrastructure/stacks/02-compute.yaml.md",
     "00-Infrastructure/stacks/01-network.yaml.md",
     "00-Infrastructure/stacks/06 - sqs.yaml.md",
-    "04- Design and Working flow/02 - phase 2/00 - Phase 2 overview.md",
     "04- Design and Working flow/01- Phase 1(Cloud Formation)/00 - phase 1 -- Created the stack for infrastructure, RDS and Secret key for DB connection.md",
     "00-Infrastructure/stacks/03-database.yaml.md",
     "00-Infrastructure/01-root-stack.yaml.md",
@@ -217,7 +218,6 @@
     "000 Images/Pasted image 20260627165837.png",
     "04- Design and Working flow/01- Phase 1(Cloud Formation)",
     "04- Design and Working flow",
-    "01-ARCHITECTURE.md",
     "00-Infrastructure/stacks/01-network.yaml",
     "03-DR-RUNBOOK.md",
     "00-Infrastructure/params/03-prod.json.md",
